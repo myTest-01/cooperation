@@ -6,9 +6,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class DemoApplication {
 
-	private  String name3;
-	private  String age3;
-    private  String sex3;
+	private  String name4;
+	private  String age4;
+    private  String sex4;
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 		System.out.println("hello:springboot");
