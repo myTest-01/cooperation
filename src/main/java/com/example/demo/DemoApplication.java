@@ -8,7 +8,7 @@ public class DemoApplication {
 
 	private  String name3;
 	private  String age3;
-    private  String sex;
+    private  String sex3;
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 		System.out.println("hello:springboot");
